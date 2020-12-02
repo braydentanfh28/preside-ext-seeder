@@ -1,0 +1,15 @@
+{
+    "name":"PresideCMS Extension: Seeder",
+    "type":"preside-extensions",
+    "version":"1.0.0",
+    "private":false,
+    "author":"Brayden",
+    "directory":"application/extensions",
+    "slug":"preside-ext-seeder",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".travis.yml",
+        ".twgit_features_subject"
+    ]
+}

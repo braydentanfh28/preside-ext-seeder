@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="seeder.seederForm:">
+
+	<tab id="default">
+		<fieldset id="settings">
+			<field name="integration" control="spinner" defaultValue="10" required="true" />
+		</fieldset>
+
+		<fieldset id="objects">
+			<field name="object"      control="seederEnabledObjList"      required="true" />
+		</fieldset>
+	</tab>
+
+</form>
